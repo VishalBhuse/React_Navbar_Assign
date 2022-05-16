@@ -1,6 +1,6 @@
 #Sample Output
 
-![image](https://user-images.githubusercontent.com/101569259/168608499-3afafe91-24a7-48ba-9d01-13c36433e951.png)
+![image](https://user-images.githubusercontent.com/101569259/168609015-e408356d-f05c-4f3c-88e3-e37bc495a26b.png)
 
 
 
